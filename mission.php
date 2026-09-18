@@ -8,7 +8,7 @@ function initiateEscapeSequence(): void
     // 【指示】担当Aも担当Bも、下の1行を自分の設定を追加せよ！
     // 担当A: $is_fuel_unlocked = true;
     // 担当B: $security_key = "2026-RELEASE";
-    $is_fuel_unlocked = false;
+    $is_fuel_unlocked = true;
     $security_key = "";
     // ==========================================
 
